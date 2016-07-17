@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 开始我的博客之旅
+title: my first blog
 tag: 🍞
 ---
 

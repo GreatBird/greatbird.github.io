@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Build the Blog
+title: How to Build the Blog!
 tag: 🍞
 ---
 
